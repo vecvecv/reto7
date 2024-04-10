@@ -1,0 +1,61 @@
+.deslogueado{
+    background-color: #23C1C2;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.chamuyo{
+    background:#D7B614;
+    
+}
+
+.pchamuyo{
+    color: #FCFAFA;
+    font-size: 12pt;
+    font-weight: 600;
+    padding: 60px;
+    background-color: #06131348;
+    text-shadow: 3px 2px 2px rgba(0,0,0,0.6);
+}
+
+.inputs{
+    border: 3px #ad9413 solid; 
+    margin: 5px;
+    padding: 10px 60px;
+    border-radius: 12px;
+    background: #FCFAFA !important;
+    color: #D7B614  !important;
+    font-size: 12px;
+}
+
+.inputs:focus {
+	background: #FCFAFA;
+	border: 3px #D7B614 solid; 
+	border-radius: 10px;
+}
+
+.boton{
+    background-color: #188686;
+    color: #D7B614;
+    border: 3px #D7B614 solid;
+    margin: 10px;
+}
+
+.ingresatxt{
+    color: #FCFAFA;
+    text-shadow: 3px 2px 2px rgba(0,0,0,0.6);
+    font-size: 13pt;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.notengo{
+    color:#FCFAFA;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 15px;
+}

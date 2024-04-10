@@ -1,0 +1,11 @@
+header{
+    background-color: #171701;
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.linknav{
+    color: #D7B614;
+}
